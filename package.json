@@ -20,14 +20,14 @@
         "milkdown plugin"
     ],
     "peerDependencies": {
-        "@milkdown/core": "^6.2.0",
-        "@milkdown/prose": "^6.2.0",
-        "@milkdown/utils": "^6.2.0"
+        "@milkdown/core": "6.2.0",
+        "@milkdown/prose": "6.2.0",
+        "@milkdown/utils": "6.2.0"
     },
     "dependencies": {
-        "@milkdown/core": "^6.2.0",
+        "@milkdown/core": "6.2.0",
         "@milkdown/prose": "6.2.0",
-        "@milkdown/utils": "^6.2.0"
+        "@milkdown/utils": "6.2.0"
     },
     "devDependencies": {
         "@babel/core": "^7.0.0",
